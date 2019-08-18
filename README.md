@@ -1,2 +1,4 @@
-# Project-3
-Youtube API + React + Express
+
+> npm install
+> npm start
+
